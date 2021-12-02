@@ -1,0 +1,35 @@
+body {
+  background-color: green;
+}
+
+h1 {
+  color: yellow;
+  font-size: 50px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  color: yellow;
+  font-size: 30px;
+  text-align: center;
+}
+
+.thank {
+  font-size: 70px;
+  text-align: center;
+  color: yellow;
+  font-weight: bold;
+}
+
+body button {
+  background-color: yellow;
+  color: green;
+}
+
+.smile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}

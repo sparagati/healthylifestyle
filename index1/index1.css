@@ -1,0 +1,54 @@
+body {
+    background-color: green;
+  }
+
+  h1 {
+    color: yellow;
+    font-size: 50px;
+    text-decoration: underline;
+  }
+
+  p {
+    color: yellow;
+    font-size: 30px;
+  }
+
+
+  .back {
+    color: yellow;
+    font-size: 30px;
+    text-align: right;
+    margin-top: 90px;
+  }
+
+  .water {
+    float: right;
+  }
+
+  .title2 {
+    color: yellow;
+    font-size: 30px;
+    text-decoration: underline;
+  }
+
+  .text {
+    color: yellow;
+    font-size: 25px;
+    
+  }
+
+  .smoll{
+    max-width: 700px;
+  }
+
+  a{
+    color: yellow;
+    font-size: 30px;
+    text-align: right;
+    margin-top: 90px;
+    text-decoration: none;
+  }
+  
+  body a:hover {
+    text-decoration: underline;
+  }
